@@ -15,3 +15,21 @@
 </html>
 ```
 
+
+
+## 标签及分类
+
+```html
+<div> <header> <footer> <nav> <article> <hr> <time> <code> <search> <!-- 布局性/语义性标签 -->
+<input> <button> <label> <a> <select> <form> <option> <img> <style> <script> <audio> <video> <link> <textarea> <table> <th> <tr> <td> <!-- 功能性标签 -->
+<span> <h1> <h6> <p> <ul> <ol> <em> <i> <strong> <b> <br> <caption> <!-- 文字性标签 -->
+```
+
+
+
+```html
+<span> <a> <strong> <label> <select> <!-- 内联标签 -->
+<div> <p> <h1> <h6> <ul> <li> <!-- 块标签 -->
+<button> <img> <input> <select> <!-- 内联块标签 -->
+```
+
